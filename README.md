@@ -1,6 +1,7 @@
 Wireless networking is essentially the art of sending data through the air using electromagnetic waves instead of physical copper or fiber cables.
 
 Depending on how far you need the signal to go, how much data you are transferring, and how much power you can afford to use, wireless networks are categorized into distinct spatial tiers.
+<img width="291" height="343" alt="image" src="https://github.com/user-attachments/assets/034c6eb6-4892-41be-b289-c41ffdc6ef41" />
 
 ---
 

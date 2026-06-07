@@ -43,6 +43,211 @@ Wireless networks operate across different frequencies of the radio spectrum. Ev
 * **Higher Frequencies (e.g., 5 GHz, 6 GHz, 5G Millimeter Wave):** Pack significantly more data and allow blistering speeds, but they struggle to penetrate solid objects like concrete walls and lose strength rapidly over distance.
 * **Lower Frequencies (e.g., 2.4 GHz, Sub-GHz bands):** Travel much further and easily pass through walls, but they offer a much narrower highway for data, leading to slower maximum speeds and high risk of signal congestion.
 
+# Wireless Networking – Full Course Roadmap
+
+## Module 1: Introduction to Wireless Networking
+
+* What is Wireless Communication?
+* Wired vs Wireless Networks
+* Types of Wireless Networks
+
+  * WLAN (Wi-Fi)
+  * WPAN (Bluetooth, ZigBee)
+  * WMAN (WiMAX)
+  * WWAN (4G/5G)
+* Applications of Wireless Networks
+
+## Module 2: Wireless Communication Fundamentals
+
+* Electromagnetic Waves
+* Frequency, Wavelength, Bandwidth
+* Radio Wave Propagation
+* Signal Attenuation
+* Multipath Fading
+* Noise and Interference
+* Link Budget Analysis
+
+## Module 3: Wireless Network Architecture
+
+* Infrastructure Mode
+* Ad-hoc Networks
+* Mesh Networks
+* Cellular Networks
+* Access Points (AP)
+* Wireless Controllers
+* Network Topologies
+
+## Module 4: Wi-Fi Technologies
+
+* IEEE 802.11 Standards
+
+  * 802.11a
+  * 802.11b
+  * 802.11g
+  * 802.11n
+  * 802.11ac
+  * 802.11ax (Wi-Fi 6)
+  * 802.11be (Wi-Fi 7)
+* Wi-Fi Channels
+* Channel Width
+* MIMO Technology
+* OFDM
+
+## Module 5: Wireless LAN Configuration
+
+* Access Point Setup
+* SSID Configuration
+* Channel Planning
+* DHCP Setup
+* VLAN Configuration
+* Wireless Roaming
+
+## Module 6: Wireless Security
+
+* WEP
+* WPA
+* WPA2
+* WPA3
+* Authentication Methods
+* RADIUS Server
+* MAC Filtering
+* Enterprise Wireless Security
+* VPN over Wireless
+
+## Module 7: Bluetooth Technology
+
+* Bluetooth Architecture
+* Bluetooth Low Energy (BLE)
+* Pairing Process
+* Bluetooth Mesh
+* IoT Applications
+
+## Module 8: ZigBee and IoT Networks
+
+* ZigBee Protocol Stack
+* ZigBee Network Formation
+* Sensor Networks
+* Smart Home Systems
+* Industrial IoT
+
+## Module 9: Cellular Networks
+
+* GSM
+* GPRS
+* EDGE
+* 3G (UMTS)
+* 4G LTE
+* 5G NR
+* Cellular Architecture
+* Handover Techniques
+
+## Module 10: Advanced Wireless Networking
+
+* Software Defined Radio (SDR)
+* Cognitive Radio
+* Wireless Sensor Networks (WSN)
+* Mobile Ad Hoc Networks (MANET)
+* Vehicular Networks (VANET)
+* UAV Communication Networks
+
+## Module 11: Network Analysis and Troubleshooting
+
+* Wireshark
+* Packet Analysis
+* Signal Strength Analysis
+* Spectrum Analysis
+* Wireless Site Survey
+* Performance Optimization
+
+## Module 12: Wireless Networking with Raspberry Pi
+
+* Raspberry Pi Wi-Fi Setup
+* Access Point Creation
+* Hotspot Configuration
+* Wireless Monitoring
+* IoT Gateway Design
+* LoRa Integration
+
+## Module 13: LoRa & LoRaWAN
+
+![Image](https://images.openai.com/static-rsc-4/o61tI5LB405XXHuyI-peO6n348wEVZ_aVyWBJbUoLHGFJ9wBXUi_hbxH1jKb3JPeS5l1LVyCJFujSIAMGEoNWGfkC8jyYxcDHHeCQoLmrFxjrove0xNbMacaCv78z-gDhbu-OcdYmrqUl-e2QN5MCkNzpy-JtQyv3Zg9mbF-4OPcROHb7ymyvcIBxC30_KyA?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/53lXVfAcD_YyDrzpQa1rFtHqbdBThKr51ruFERVSeder0idg4qnd4y5BN5QvOWn_8YLmF3xkE_1ex3k_fuknq_zR_8bjy7WwdkkeR8Mb66F5lTft7M92-_-n36tv6WLPh7pe5uo5tIHzlVPv65Tz2yXwRBZHZAOh_YDp2f6f7rerOD_JVveSvzFRyQAzJihK?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/_bJgHazI-o2Ofr1M6RuCK8De-VVHByC25J0lj50z4QTsqX09_J3G8uUIWJFmgbKcuagPY9ynq64gEqwBVHzgbEs2xFOVy6ZS2470aA_fspko3slWHu_c9qqnCow_wYgWIXs0l5e8XPqOb3X2vR6wGHUP93r-HTpTrBj9M3tGaM_io1qsuQVFAVw95N5OHbIQ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/glj1_WU7fa2_wEkcYZX0cTC9dc4gm89OhTdsfRnAojV07FHfi_l_4ghzaNTmH1XWF9n0rjP-PM1_8sBg2QsrzzU0nAfmzDnXKCQnRgfITTctAO5Avhuzvuh7UGfieEXspSHo9y7F3nx8rXYrADw-3RpeguWU6SZagAvGWhmtF5fKtg8HUM8qCLRRJxojE-r1?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/c-mTImViOS-U1dnwHvx2QviahfU_hw5GYCUYU2TYCuw_vjzBlzb9mH78Su8mGXarzWMIRf1uIPJ7Xr0P0RbbpToCfIHCKunLvhsFrjI7UKFhfyIUd_TEffpAbVphvCZ2de2hPr4OrgseT1TFmfEzRJyzz23A1gE90SdyKOrvq2hFgOnJiSPiSLa3T-URDi-8?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/nje13DRzvKvHX2uhtWrULYcQ6VxikEotfXdSegrPdR7gmW9vnuwR56AOlbmeguHTdQW2L9yxumWYHzFVoh1y5TiCClcXVOgYl6gJKr4YaiVs0hdMx6MndQ8IeSnz2U1j6Hk3GcOAvxsmG512TAXneUdCemsCLEZ3bzMUmy686Pnyx-kRt_f9iMweK6DfyZkd?purpose=fullsize)
+
+* LoRa Basics
+* SX1262/SX1278 Modules
+* LoRaWAN Architecture
+* Gateway Setup
+* Point-to-Point Communication
+* Long Range Sensor Networks
+* Raspberry Pi + LoRa Projects
+
+## Module 14: Wireless Networking Projects
+
+### Beginner
+
+1. Wi-Fi Signal Analyzer
+2. Bluetooth Chat Application
+3. Raspberry Pi Hotspot
+
+### Intermediate
+
+1. Smart Home Automation
+2. ZigBee Sensor Network
+3. LoRa Weather Station
+
+### Advanced
+
+1. Drone Telemetry System
+2. AI-based Wireless Intrusion Detection
+3. Smart Agriculture Monitoring
+4. LoRa Mesh Network
+5. UAV Communication Network
+
+## Tools to Learn
+
+* Wireshark
+* Cisco Packet Tracer
+* GNS3
+* Kali Linux
+* Raspberry Pi OS
+* SDR (HackRF, RTL-SDR)
+
+## Programming Languages
+
+* Python
+* C/C++
+* Bash
+* Embedded C
+
+## Career Roles
+
+* Wireless Network Engineer
+* Network Security Engineer
+* RF Engineer
+* IoT Engineer
+* Embedded Systems Engineer
+* LoRaWAN Engineer
+* Telecommunications Engineer
+
+Since you already work with **Raspberry Pi 5**, **SX126x LoRa HAT**, **AI/ML**, and **Computer Vision**, I would recommend focusing on:
+
+1. Wireless Fundamentals
+2. Wi-Fi & Network Security
+3. LoRa/LoRaWAN
+4. Raspberry Pi Networking
+5. SDR & RF Analysis
+6. UAV Wireless Communication
+
+These skills are especially useful for aerospace, drone, IoT, and embedded AI projects.
 
 
 
